@@ -10,4 +10,7 @@ for i in seq:
     print(i)
     
     
+for i in range(10):
+    print(i)    
+    
     
