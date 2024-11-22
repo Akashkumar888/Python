@@ -19,3 +19,4 @@ scores = [3, 5, 6, 9, 1, 2, 0, -1]
 height = 3  # Total levels in the tree
 print("Optimal value:", minimax(0, 0, True, scores, height))
 
+
